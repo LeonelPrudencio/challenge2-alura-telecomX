@@ -55,5 +55,7 @@ Se utilizó la base de datos disponible en:
 
 ---
 ✍️ Autor: *[LeonelPrudencio](https://github.com/LeonelPrudencio/)*
+
 👥 LinkedIn: *[leonel-prudencio](https://www.linkedin.com/in/leonel-antonio-prudencio-castro-9a266b292)*
+
 📌 Proyecto de Análisis de Evasión de Clientes en TelecomX
