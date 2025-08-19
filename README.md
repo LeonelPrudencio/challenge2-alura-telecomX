@@ -1,4 +1,4 @@
-# Proyecto: Análisis de Evasión de Clientes en Telecomunicaciones
+# Proyecto de Análisis de Evasión de Clientes en TelecomX
 
 ## 📌 Descripción
 Este proyecto analiza los patrones de **evasión de clientes (Churn)** en el sector de telecomunicaciones, utilizando el dataset **TelecomX**.  
@@ -24,21 +24,18 @@ Se utilizó la base de datos disponible en:
 ## 📊 Principales Gráficas
 
 1. **Distribución general de evasión**  
+<img width="585" height="402" alt="image" src="https://github.com/user-attachments/assets/c1a4bb58-f3a7-410e-b27b-284cdac53561" />
+<img width="576" height="428" alt="image" src="https://github.com/user-attachments/assets/407aae29-0792-4b52-8236-8985e7bbb84b" />
 
 
-2. **Evasión según tipo de contrato**  
+2. **Evasión según variables categóricas**  
+<img width="1484" height="1178" alt="image" src="https://github.com/user-attachments/assets/e1965877-6504-49c7-a7d1-aefc304402a4" />
 
 
-3. **Evasión según tipo de servicio de internet**  
-
-
-4. **Evasión según método de pago**  
-
-
-5. **Distribución por antigüedad del cliente**  
-
-
-6. **Relación cargos mensuales y evasión**  
+3. **Evasión según variables numéricas**  
+<img width="520" height="384" alt="image" src="https://github.com/user-attachments/assets/53cd9b07-b1f0-4fe7-8295-f60e02f0d7e8" />
+<img width="560" height="384" alt="image" src="https://github.com/user-attachments/assets/9505e85f-0c84-4609-a1fe-8d3f5a377801" />
+<img width="520" height="384" alt="image" src="https://github.com/user-attachments/assets/609657be-7530-411a-a7d1-d2e3d942b1ea" />
 
 
 ## 🔍 Insights Clave
@@ -57,5 +54,6 @@ Se utilizó la base de datos disponible en:
 - **Acciones específicas en umbrales de antigüedad y facturación acumulada**.
 
 ---
-✍️ Autor: *Leo Castro*  
-📌 Proyecto de Análisis de Evasión de Clientes en Telecomunicaciones
+✍️ Autor: *[LeonelPrudencio](https://github.com/LeonelPrudencio/)*
+👥 LinkedIn: *[leonel-prudencio](https://www.linkedin.com/in/leonel-antonio-prudencio-castro-9a266b292)*
+📌 Proyecto de Análisis de Evasión de Clientes en TelecomX
